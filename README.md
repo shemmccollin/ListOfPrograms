@@ -1,1 +1,12 @@
-![Screenshot 2024-01-28 at 20 54 50](https://github.com/brightgeevarghese/ListOfMessages/assets/27910029/d10c24bf-7cb0-4796-a9d5-f03f4e0efc01)
+Name: List of MIU Programs
+Description:
+This application allows a user to see some of the programs offered by MIU,
+It gives the program name and program description. By clicking on the program 
+the description field will expand to show more text about the program.
+Clicking it again will minimize it back to the original size.
+
+Application Loaded
+![img_1.png](img_1.png)
+
+Application when a program is clicked
+![img.png](img.png)
