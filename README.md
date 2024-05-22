@@ -1,4 +1,5 @@
 Name: List of MIU Programs
+
 Description:
 This application allows a user to see some of the programs offered by MIU,
 It gives the program name and program description. By clicking on the program 
